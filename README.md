@@ -9,7 +9,7 @@ Learn a framework for structured problem solving, Get introduced to predictive a
   * Practice Project: [Predicting Diamond Prices](https://github.com/silvanazdravevska/Predictive-Analytics-for-Business-Nanodegree-Program/blob/cfe8c03552800182d63ddf9f167e16ec5b9b750a/Part%201%20Problem%20Solving%20with%20Advanced%20Analytics/Practice%20Project%20Predicting%20Diamond%20Prices.pdf)
   * Project: [Predicting Catalog Demand](https://github.com/silvanazdravevska/Predictive-Analytics-for-Business-Nanodegree-Program/blob/cfe8c03552800182d63ddf9f167e16ec5b9b750a/Part%201%20Problem%20Solving%20with%20Advanced%20Analytics/Project%20Predicting%20Catalog%20Demand.pdf)
 
-### Part 2: [Data Wrangling] (https://github.com/silvanazdravevska/Predictive-Analytics-for-Business-Nanodegree-Program/tree/main/Part%202:%20Data%20Wrangling) ###
+### Part 2: [Data Wrangling](https://github.com/silvanazdravevska/Predictive-Analytics-for-Business-Nanodegree-Program/tree/main/Part%202:%20Data%20Wrangling) ###
 
 Understanding Data, Identify and adjust data issues, Data Formatting, Join and union data from different sources and formats, Use predictive models.
 
